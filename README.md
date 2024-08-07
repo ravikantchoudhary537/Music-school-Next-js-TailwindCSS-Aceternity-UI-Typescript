@@ -10,20 +10,11 @@ This project is an animated and interactive Music School website built with Next
 - **TypeScript**: Implemented to add static typing to JavaScript, which helps catch errors early in the development process and improves code quality and maintainability.
 
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 5px;">
-    <img src="./public/screenshot1.png" alt="Screenshot 1" width="400"/>
-  </div>
-  <div style="flex: 1; margin: 5px;">
-    <img src="./public/screenshot2.png" alt="Screenshot 2" width="400"/>
-  </div>
-  <div style="flex: 1; margin: 5px;">
-    <img src="./public/screenshot3.png" alt="Screenshot 3" width="400"/>
-  </div>
-  <div style="flex: 1; margin: 5px;">
-    <img src="./public/screenshot4.png" alt="Screenshot 4" width="400"/>
-  </div>
-</div>
+#### Screenshots:
+
+| ![Screenshot 1](./public/screenshot1.png) | ![Screenshot 2](./public/screenshot2.png) |
+|-------------------------------------------|-------------------------------------------|
+| ![Screenshot 3](./public/screenshot3.png) | ![Screenshot 4](./public/screenshot4.png) |
 
 
 #### Project Objectives:
